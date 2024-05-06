@@ -1,0 +1,29 @@
+_repo: Stories-of-Elizabethan-heroes-b-Stirring-records-of-the-intrepid-bravery-and-boundless-resour__73507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilliat, Edward
+    alias: Gilliat, E. (Edward)
+    birthdate: 1841
+    deathdate: 1915
+    gutenberg_agent_id: '45763'
+    url: http://www.gutenberg.org/2009/agents/45763
+description: ''
+gutenberg_issued: '2024-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73507'
+language: en
+pgterms:marc905: 20240411151640gilliat
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bSeeley, Service & Co. Limited, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stories of Elizabethan heroes : $b Stirring records of the intrepid bravery
+  and boundless resource of the men of Queen Elizabeth''s reign'
+url: http://www.gutenberg.org/ebooks/73507
