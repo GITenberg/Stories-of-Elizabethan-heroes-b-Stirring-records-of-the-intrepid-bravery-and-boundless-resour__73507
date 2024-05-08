@@ -1,5 +1,8 @@
 _repo: Stories-of-Elizabethan-heroes-b-Stirring-records-of-the-intrepid-bravery-and-boundless-resour__73507
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73507-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Gilliat, Edward
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45763'
     url: http://www.gutenberg.org/2009/agents/45763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73507#Stories-of-Elizabethan-heroes-b-Stirring-records-of-the-intrepid-bravery-and-boundless-resour_
 gutenberg_issued: '2024-05-01'
 gutenberg_type: Text
 identifiers:
